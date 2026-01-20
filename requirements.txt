@@ -5,4 +5,3 @@ scikit-learn
 scikit-image
 matplotlib
 kaggle
-google-collab
