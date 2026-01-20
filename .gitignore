@@ -1,0 +1,20 @@
+# Dane i paczki
+landscape_data/
+*.zip
+*.tar.gz
+
+# Modele i wagi (pliki binarne)
+colorization_model.pth
+*.pth
+*.pkl
+
+# Wyniki wizualne i cache
+visual_results.png
+wynik_*.png
+__pycache__/
+.ipynb_checkpoints/
+
+# Systemowe i środowiska
+.DS_Store
+venv/
+env/
