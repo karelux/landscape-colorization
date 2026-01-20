@@ -23,7 +23,7 @@ Otwórz Google Colab i zmień typ środowiska na GPU: `Środowisko wykonawcze` -
 # 2. Zainstaluj niezbędne biblioteki
 !pip install -r requirements.txt -q
 
-# 3. Pobierz i przygotuj zbiór danych (wymaga klucza Kaggle w pliku)
+# 3. Pobierz i przygotuj zbiór danych (należy uzupełnić plik swoim username oraz API Tokenem z kaggle)
 !python setup_data.py
 
 # 4. Rozpocznij proces trenowania modelu (5 epok)
