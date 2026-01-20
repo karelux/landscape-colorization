@@ -11,7 +11,7 @@
 Projekt został zoptymalizowany pod kątem pracy w chmurze z wykorzystaniem akceleracji GPU.
 
 ### 1. Konfiguracja środowiska
-Otwórz Google Colab i zmień typ środowiska na GPU: `Runtime` -> `Change runtime type` -> `T4 GPU`.
+Otwórz Google Colab i zmień typ środowiska na GPU: `Środowisko wykonawcze` -> `Zmień typ środowiska wykonawczego` -> `GPU T4`.
 
 ### 2. Wykonaj poniższe kroki w komórkach notatnika:
 
